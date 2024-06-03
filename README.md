@@ -69,7 +69,8 @@ DELETE /api/employees/{id} - Delete an employee
 GET /api/employees/search - Search employees by name with pagination
 
 Department Endpoints
-Note: Department endpoints is used only for retrieving the departments
+Note: Department endpoints is used only for retrieving the departments althoug there are other REST API's of it defined in DepartmentController
+
 GET /api/departments - Retrieve all departments
 
 ## accessing-the-h2-database
