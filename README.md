@@ -2,6 +2,8 @@
 
 This is the backend application for the Employee Management system. It provides RESTful APIs to manage employee and department records. The application is built using Spring Boot.
 
+Note: Department endpoints is used only for retrieving the departments althoug there are other REST API's of it defined in DepartmentController.
+
 ## Table of Contents
 
 - [Prerequisites](#prerequisites)
