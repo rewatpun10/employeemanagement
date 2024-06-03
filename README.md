@@ -83,10 +83,13 @@ Open your web browser and navigate to http://localhost:8080/h2-console.
 Enter the following details to log in:
 
 JDBC URL: jdbc:h2:mem:emp
+
 Username: sa
+
 Password: (leave this field empty)
 
 Click the "Connect" button to access the H2 database console.
 
 **Data Initialization**
+
 The application uses a DataLoader class to populate the database with initial data(employees and departments) when the application starts.
